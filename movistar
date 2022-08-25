@@ -1,0 +1,445 @@
+#EXTM3U
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/448" tvg-id="6e5497730acdb6003ea17d44de4e3db7" tvg-chno="1",M+ #0 HD
+http://192.168.1.53:9981/stream/channelid/1939297390?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/449" tvg-id="555b1c1ec8ef5d45bb216448886b1532" tvg-chno="2",M. Estrenos HD
+http://192.168.1.53:9981/stream/channelid/505174869?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/450" tvg-id="945ae858344b11f845fa59143d6149ef" tvg-chno="3",M. Estrenos 2 HD
+http://192.168.1.53:9981/stream/channelid/1491622548?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/451" tvg-id="205b622decc865b7dbe85d11dde01a4c" tvg-chno="4",M. Clásicos HD
+http://192.168.1.53:9981/stream/channelid/761420576?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/452" tvg-id="55e99e74755c646923915f57c280f75c" tvg-chno="5",M. Acción HD
+http://192.168.1.53:9981/stream/channelid/1956571477?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/453" tvg-id="4bcef72914dcf6e70030da14de39572d" tvg-chno="6",M. Comedia HD
+http://192.168.1.53:9981/stream/channelid/704106059?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/454" tvg-id="b6c8f9004b11b2965d0922d53d694eb7" tvg-chno="8",M. Drama HD
+http://192.168.1.53:9981/stream/channelid/16369846?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/455" tvg-id="a4f195f0e274e2eb2304656f872e404a" tvg-chno="9",TCM HD
+http://192.168.1.53:9981/stream/channelid/1888874916?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/456" tvg-id="ae6d9c3708e3de57c616c19f7d02bead" tvg-chno="10",Hollywood HD
+http://192.168.1.53:9981/stream/channelid/932998574?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/457" tvg-id="dc1c4288583a5707d5851a8ec16ba432" tvg-chno="11",AMC HD
+http://192.168.1.53:9981/stream/channelid/138550492?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/458" tvg-id="592bb4f76201268a3b6e09e8f5bb91fa" tvg-chno="12",COSMO HD
+http://192.168.1.53:9981/stream/channelid/2008296281?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/459" tvg-id="118fb1fb8456f34f97de129ae380f2f6" tvg-chno="13",FOX HD
+http://192.168.1.53:9981/stream/channelid/2075234065?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/460" tvg-id="e99ef8dac48b89136ab0e35438d9c350" tvg-chno="14",AXN HD
+http://192.168.1.53:9981/stream/channelid/1526243049?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/461" tvg-id="736cb8168cd6436037546ad855f0678a" tvg-chno="15",TNT HD
+http://192.168.1.53:9981/stream/channelid/381185139?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/462" tvg-id="9eacffda2f13b249562f9b9a8a19f1de" tvg-chno="16",Comedy Central HD
+http://192.168.1.53:9981/stream/channelid/1526705310?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/463" tvg-id="7e32b685c528f9df4c66954609c6546f" tvg-chno="17",Calle 13 HD
+http://192.168.1.53:9981/stream/channelid/95826558?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/464" tvg-id="f357d7a6f54986bcecba96eb503060a5" tvg-chno="18",AXN White HD
+http://192.168.1.53:9981/stream/channelid/651646963?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/465" tvg-id="df9870fcdf18dd55bc4612763551ddd6" tvg-chno="19",SYFY HD
+http://192.168.1.53:9981/stream/channelid/2087753951?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/466" tvg-id="ec7ea3fa67f5c94aa661ad04d63af23b" tvg-chno="20",M. Series HD
+http://192.168.1.53:9981/stream/channelid/2057535212?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/467" tvg-id="41df2147104f5bafe104cbb67b3b74d8" tvg-chno="21",M. Series 2 HD
+http://192.168.1.53:9981/stream/channelid/1193402177?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/468" tvg-id="7baee666786d103cdde343517d306c46" tvg-chno="22",M. Cine Español
+http://192.168.1.53:9981/stream/channelid/1726393979?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/469" tvg-id="a845f1d654f8aa6d99bb4f598de6a6c8" tvg-chno="23",Sundance
+http://192.168.1.53:9981/stream/channelid/1458652584?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/470" tvg-id="b9a95a6e9544d616a269c77ea232508d" tvg-chno="24",La 1 HD
+http://192.168.1.53:9981/stream/channelid/1851435449?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/471" tvg-id="dbd0227005d2fc7827b3f52e47989d78" tvg-chno="25",La 2
+http://192.168.1.53:9981/stream/channelid/1881329883?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/472" tvg-id="ea6efb0e7ed6ac42dd85923f2156d1fc" tvg-chno="26",Antena 3 HD
+http://192.168.1.53:9981/stream/channelid/251358954?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/473" tvg-id="21ecb03f82702c1ba86d935d87d05786" tvg-chno="27",Cuatro HD
+http://192.168.1.53:9981/stream/channelid/1068559393?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/474" tvg-id="697a7fc5e44e5a99925c87170421f967" tvg-chno="28",Telecinco HD
+http://192.168.1.53:9981/stream/channelid/1165982313?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/475" tvg-id="4b35b05cb1d94ebf1764eb6ad77027a2" tvg-chno="29",#Vamos HD
+http://192.168.1.53:9981/stream/channelid/1555051851?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/476" tvg-id="1195e9f9c4513f2cd9b6f07df7b96c12" tvg-chno="30",M. Fest HD
+http://192.168.1.53:9981/stream/channelid/2045351185?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/477" tvg-id="7d6361e626e9ed3b0b6927ee673bfca2" tvg-chno="31",M+ LaLiga HD
+http://192.168.1.53:9981/stream/channelid/1717658493?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/478" tvg-id="64602c7932ff5e4215707c9004fde626" tvg-chno="32",M. LaLiga 1 HD
+http://192.168.1.53:9981/stream/channelid/2032951396?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/479" tvg-id="3226924769eca98cce7680760865d7d4" tvg-chno="33",M. Liga de Campeones HD
+http://192.168.1.53:9981/stream/channelid/1200760370?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/480" tvg-id="e7a6224c7cafe88889a11ff47b3bb8b2" tvg-chno="34",M. Liga de Campeones 1 HD
+http://192.168.1.53:9981/stream/channelid/1277339367?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/481" tvg-id="cca9af06dfd3a169f34a4e423a5bb138" tvg-chno="35",M. Liga de Campeones 2 HD
+http://192.168.1.53:9981/stream/channelid/112175564?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/482" tvg-id="a7dd755917fa26447596d1c7578878df" tvg-chno="36",Nat Geo HD
+http://192.168.1.53:9981/stream/channelid/1500896679?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/483" tvg-id="5e884a3d7d6f37a6773dab9d64913273" tvg-chno="37",Nat Geo Wild HD
+http://192.168.1.53:9981/stream/channelid/1028294750?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/484" tvg-id="d8934a25b1b2f9c165ac98ccebe893c3" tvg-chno="38",Historia
+http://192.168.1.53:9981/stream/channelid/625644504?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/485" tvg-id="89c8d521640b17ea54ba3b9a2b583065" tvg-chno="39",Discovery
+http://192.168.1.53:9981/stream/channelid/567658633?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/486" tvg-id="a76dc9b20893f91b5a63dee6f89d4b38" tvg-chno="40",MTV España
+http://192.168.1.53:9981/stream/channelid/852061607?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/487" tvg-id="49c10c22d53dad584565237c05cdf66f" tvg-chno="40",Odisea
+http://192.168.1.53:9981/stream/channelid/571261257?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/488" tvg-id="803f51898181b4ad9a8722a512b607ee" tvg-chno="41",FDF
+http://192.168.1.53:9981/stream/channelid/156319616?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/489" tvg-id="18da03c4df7604d6e1380a18b995389e" tvg-chno="41",MTV 80s
+http://192.168.1.53:9981/stream/channelid/1141103128?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/490" tvg-id="dd06b996858fa456c1b65e798a0a10c2" tvg-chno="42",Neox
+http://192.168.1.53:9981/stream/channelid/381224669?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/491" tvg-id="d994ff2fa12b32010ba8c217e69ce036" tvg-chno="42",Rai News 24
+http://192.168.1.53:9981/stream/channelid/805278937?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/492" tvg-id="2abc1c9dc4a782bd1a103703aaa489dd" tvg-chno="43",Energy
+http://192.168.1.53:9981/stream/channelid/488422442?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/493" tvg-id="7aa56998b395c6fe61087a9e4bf669d6" tvg-chno="43",Paramount Network
+http://192.168.1.53:9981/stream/channelid/409576826?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/494" tvg-id="b991c74994feac38a865ebed6a4e3434" tvg-chno="43",Telesur HD
+http://192.168.1.53:9981/stream/channelid/1237815737?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/495" tvg-id="ea49a12bcb4d5386f99a2449d4e6c91c" tvg-chno="44",Multideporte
+http://192.168.1.53:9981/stream/channelid/731990506?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/496" tvg-id="e7367303368a4996eb2f0efd24874657" tvg-chno="48",M+ LaLiga 3 HD
+http://192.168.1.53:9981/stream/channelid/57882343?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/497" tvg-id="2af047273f725847ae76127433007a29" tvg-chno="49",M+LCampeones BAR
+http://192.168.1.53:9981/stream/channelid/659025962?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/498" tvg-id="a9bc7335e3d8a7c9b432b291e91f42db" tvg-chno="53",M. Deportes HD
+http://192.168.1.53:9981/stream/channelid/896777385?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/499" tvg-id="410d3a86f8c7400403ff998244083ea1" tvg-chno="54",M. Deportes 1 HD
+http://192.168.1.53:9981/stream/channelid/104467777?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/500" tvg-id="a53de4ae1c5c254f764ca031c9aef7db" tvg-chno="55",M. Deportes 2
+http://192.168.1.53:9981/stream/channelid/786709925?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/501" tvg-id="a85bd47f19f99d160c5043b06c93edad" tvg-chno="56",M. Deportes 3
+http://192.168.1.53:9981/stream/channelid/2144623528?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/502" tvg-id="980703043c925205a6792b03c9aea215" tvg-chno="57",M. Golf HD
+http://192.168.1.53:9981/stream/channelid/67307416?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/503" tvg-id="38283b984dcd4e3583dccf1efe8f0e3a" tvg-chno="58",DAZN F1 HD
+http://192.168.1.53:9981/stream/channelid/406530104?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/504" tvg-id="f1e171614a740c7f4563bcf08ffb2883" tvg-chno="59",DAZN 1 HD
+http://192.168.1.53:9981/stream/channelid/1634853361?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/505" tvg-id="4e190376dfe046d2ace4db8c9dc12682" tvg-chno="60",DAZN 2 HD
+http://192.168.1.53:9981/stream/channelid/1979914574?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/506" tvg-id="2c209140a5cf68258fba94304d492e69" tvg-chno="61",Eurosport 1 HD
+http://192.168.1.53:9981/stream/channelid/1083252780?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/507" tvg-id="b20301866e980c7929754374c0b3b843" tvg-chno="62",Eurosport 2 HD
+http://192.168.1.53:9981/stream/channelid/100729778?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/508" tvg-id="f62e35995e51de3b1f9eebd653888005" tvg-chno="63",GOL
+http://192.168.1.53:9981/stream/channelid/422915830?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/509" tvg-id="e4a783e88056bf304748e4241bac4629" tvg-chno="64",Teledeporte
+http://192.168.1.53:9981/stream/channelid/1753458660?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/510" tvg-id="9d8c5d98ec006ab120770de149d7dcd5" tvg-chno="65",Caza y Pesca HD
+http://192.168.1.53:9981/stream/channelid/408784029?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/511" tvg-id="62d47a204916639ea6df0c3733ed0318" tvg-chno="66",Iberalia TV
+http://192.168.1.53:9981/stream/channelid/544920674?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/512" tvg-id="18e16136c1c2b102fc3e519db3040af0" tvg-chno="67",Toros HD
+http://192.168.1.53:9981/stream/channelid/912384280?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/513" tvg-id="9b0a16231f288cce619945a254be1c8f" tvg-chno="68",Realmadrid TV
+http://192.168.1.53:9981/stream/channelid/588647067?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/514" tvg-id="c5b787d17571dfac4e1c80149a62cb22" tvg-chno="69",Barça TV
+http://192.168.1.53:9981/stream/channelid/1367848901?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/515" tvg-id="c1ecdc3a58479bc206bde1265c8cb2cf" tvg-chno="75",AMC BREAK
+http://192.168.1.53:9981/stream/channelid/987557057?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/516" tvg-id="6c0bd7509271dc7324f39482ca8f1b01" tvg-chno="76",Viajar HD
+http://192.168.1.53:9981/stream/channelid/1356270444?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/517" tvg-id="2c2f404227d7d80cb7387ff59214af0a" tvg-chno="78",Crimen+Investigación
+http://192.168.1.53:9981/stream/channelid/1111502636?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/518" tvg-id="534bb6df3dbc5c3dace37caf1c4de530" tvg-chno="79",Canal Decasa
+http://192.168.1.53:9981/stream/channelid/1605782355?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/519" tvg-id="1cc2f051994d7859f756ee4f0241408a" tvg-chno="80",Canal Cocina
+http://192.168.1.53:9981/stream/channelid/1374732828?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/520" tvg-id="3fadde4c38feb36784c8d8b5ae1e1c08" tvg-chno="81",Divinity
+http://192.168.1.53:9981/stream/channelid/1289661759?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/521" tvg-id="839042682748d420b2a5fb49b95115c2" tvg-chno="82",Nova
+http://192.168.1.53:9981/stream/channelid/1749192835?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/522" tvg-id="62c031778ecc9b3e924e880068cdfe73" tvg-chno="84",BeMad
+http://192.168.1.53:9981/stream/channelid/1999749218?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/523" tvg-id="dfe074c934717060997b17a5db60fab6" tvg-chno="90",Baby TV
+http://192.168.1.53:9981/stream/channelid/1232396511?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/524" tvg-id="11bc606f1b6e49f85d4fea07d6d1e326" tvg-chno="91",Disney JR
+http://192.168.1.53:9981/stream/channelid/1868610577?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/525" tvg-id="a6903b4f88b39f95e3be47c5595bd6ab" tvg-chno="92",Canal Panda
+http://192.168.1.53:9981/stream/channelid/1329303718?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/526" tvg-id="2251606ed1dc68e206218fea074b39c2" tvg-chno="93",Nick JR
+http://192.168.1.53:9981/stream/channelid/1851805986?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/527" tvg-id="f4a8bfaf6a47e66d7cec3c48db7907d9" tvg-chno="94",Nickelodeon HD
+http://192.168.1.53:9981/stream/channelid/801089780?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/528" tvg-id="b274f1aab4d74ab4a645c6b3dc9ed6a7" tvg-chno="95",DreamWorks HD
+http://192.168.1.53:9981/stream/channelid/720467122?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/529" tvg-id="c6b829176ecef84bf57f67b5c8d34390" tvg-chno="96",Disney Channel HD
+http://192.168.1.53:9981/stream/channelid/388610246?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/530" tvg-id="535d2883b683196da04e87cafc2dc612" tvg-chno="97",Boing
+http://192.168.1.53:9981/stream/channelid/52976979?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/531" tvg-id="9d09175d506b5b7060cf3ca14a8cb25c" tvg-chno="98",Clan
+http://192.168.1.53:9981/stream/channelid/1561790877?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/532" tvg-id="64a0565310bf9f408a73fa7a99c85d60" tvg-chno="100",MTV HD
+http://192.168.1.53:9981/stream/channelid/1398186084?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/533" tvg-id="36ee762547cf0e2ad562cd1b29025b8d" tvg-chno="102",MTV
+http://192.168.1.53:9981/stream/channelid/628551222?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/534" tvg-id="fc2a4149d62ab602e4d0ac3bb141b1ce" tvg-chno="105",MTV 00s
+http://192.168.1.53:9981/stream/channelid/1229007612?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/535" tvg-id="d69a341a0335ce3cd8bbc70e23e5fd3e" tvg-chno="107",Mezzo
+http://192.168.1.53:9981/stream/channelid/439655126?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/536" tvg-id="4e816fe01d3dae028bdc9b240e37f448" tvg-chno="108",Mezzo Live HD
+http://192.168.1.53:9981/stream/channelid/1617920334?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/537" tvg-id="7a11d8ed3cb91a38d55700baf2e7704d" tvg-chno="109",Classica
+http://192.168.1.53:9981/stream/channelid/1842876794?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/538" tvg-id="57d6ee6d73328293e376b87d4fb792f0" tvg-chno="111",Playboy TV
+http://192.168.1.53:9981/stream/channelid/1844368983?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/539" tvg-id="842f422ef8267bdd3f284f300e766ba4" tvg-chno="112",24h
+http://192.168.1.53:9981/stream/channelid/776089476?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/540" tvg-id="491b954a05ae901ae496409b23ebdc5e" tvg-chno="113",BBC World News Europe HD
+http://192.168.1.53:9981/stream/channelid/1251285833?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/541" tvg-id="27f3d0b400dcd650b6dcb84cab620f8b" tvg-chno="115",FOX News
+http://192.168.1.53:9981/stream/channelid/886108967?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/542" tvg-id="9122bbff703ece1c4256e354ae397837" tvg-chno="116",Euronews French SD
+http://192.168.1.53:9981/stream/channelid/2142970513?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/543" tvg-id="8d1ddff978cbc22c52170f228e702d4f" tvg-chno="117",Al Jazeera English HD
+http://192.168.1.53:9981/stream/channelid/2044665229?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/544" tvg-id="86163638ab6229b72f2de660ad60a11f" tvg-chno="118",France 24 (en Francais)
+http://192.168.1.53:9981/stream/channelid/943068806?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/545" tvg-id="58104e89064edbfe6c6d477dda6ae84a" tvg-chno="119",RT Esp HD
+http://192.168.1.53:9981/stream/channelid/156110936?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/546" tvg-id="0bbb75f36a1ce7fd00e6d42ee601e736" tvg-chno="120",CNBC HD
+http://192.168.1.53:9981/stream/channelid/1937095435?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/547" tvg-id="44848d3d36a90c738f3a8f4327b9974d" tvg-chno="122",TV5MONDE Europe HD
+http://192.168.1.53:9981/stream/channelid/1032684612?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/548" tvg-id="c49f95a3360858494e1281115b1bcba5" tvg-chno="123",Bloomberg Europe TV_OLD_Please retune
+http://192.168.1.53:9981/stream/channelid/597008324?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/549" tvg-id="d67bb90fff80b0f6db5470f22bbfe516" tvg-chno="125",RT HD
+http://192.168.1.53:9981/stream/channelid/263814102?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/550" tvg-id="f39a48341c64e476a1277b1cd0c17819" tvg-chno="126",RT France HD
+http://192.168.1.53:9981/stream/channelid/877173491?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/551" tvg-id="e5bf9447cd8994afc8c337938937cd46" tvg-chno="130",Arirang HD
+http://192.168.1.53:9981/stream/channelid/1200930789?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/552" tvg-id="8cab9de5e4be405262c885c0a53044e4" tvg-chno="141",Cubavisión Internacional
+http://192.168.1.53:9981/stream/channelid/1704831884?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/553" tvg-id="ff464f836402f30142f2a57f079e815b" tvg-chno="143",NHK World TV
+http://192.168.1.53:9981/stream/channelid/55527167?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/554" tvg-id="3dfb37bad5d7756d5ea55099d7a64df5" tvg-chno="144",#Vamos BAR
+http://192.168.1.53:9981/stream/channelid/976747325?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/555" tvg-id="d8ebdedfc016a29f70d237abe000ba96" tvg-chno="145",LaLiga TV BAR HD
+http://192.168.1.53:9981/stream/channelid/1608444888?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/556" tvg-id="b9d19120b6beb86e456bcf6c1ec2e355" tvg-chno="146",LaLiga TV BAR 1
+http://192.168.1.53:9981/stream/channelid/546427321?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/557" tvg-id="e04c789fc00691522afd41c3f90b444d" tvg-chno="147",LaLiga TV BAR 2
+http://192.168.1.53:9981/stream/channelid/527977696?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/558" tvg-id="42afae324d4a71790140565450c73a19" tvg-chno="148",LaLiga TV BAR 3
+http://192.168.1.53:9981/stream/channelid/850308930?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/559" tvg-id="194ceb2c906d4136d724f393bf3cc4e8" tvg-chno="149",LaLiga TV BAR 4
+http://192.168.1.53:9981/stream/channelid/753617945?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/560" tvg-id="e0a7e7506c83b4cc4688fc3f9f4aed6a" tvg-chno="150",Canal Sur Andalucía
+http://192.168.1.53:9981/stream/channelid/1357359072?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/561" tvg-id="e321defe39622260410fc9f43fb12613" tvg-chno="151",TVGA HD
+http://192.168.1.53:9981/stream/channelid/2128486883?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/562" tvg-id="be9f1424947ad71b4e726c9f498d0e4e" tvg-chno="152",Extremadura SAT
+http://192.168.1.53:9981/stream/channelid/605331390?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/563" tvg-id="d3478286dda94147681d5555d2bcd623" tvg-chno="155",Aragón TV Int
+http://192.168.1.53:9981/stream/channelid/109201363?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/564" tvg-id="3e41a7ac2d3f091208ccb491416dc473" tvg-chno="161",Alquiler HD
+http://192.168.1.53:9981/stream/channelid/749158718?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/565" tvg-id="a51fbfd4d320720d79efb6f4fbadb524" tvg-chno="162",Alquiler X
+http://192.168.1.53:9981/stream/channelid/1421811621?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/566" tvg-id="5bd8e147b0e899e09c2961b2eb32e9b9" tvg-chno="163",Alquiler XX
+http://192.168.1.53:9981/stream/channelid/1205983323?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/567" tvg-id="95787195e183beb6e9156f95b71025f6" tvg-chno="164",Alquiler XY
+http://192.168.1.53:9981/stream/channelid/359757973?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/568" tvg-id="b2f086e4c1a9f062dfd4c480a1452b1f" tvg-chno="176",TEST LIG5
+http://192.168.1.53:9981/stream/channelid/1686565042?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/569" tvg-id="572c2a755ed1a2b410d1bad931341188" tvg-chno="177",TEST LIG6
+http://192.168.1.53:9981/stream/channelid/1965698135?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/570" tvg-id="022f7f312a48d7fc3743cd0f20f71892" tvg-chno="178",TEST LIG7
+http://192.168.1.53:9981/stream/channelid/830418690?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/571" tvg-id="aab36cb22f4c3ddbbf5648c366fffcc4" tvg-chno="179",TEST LIG8
+http://192.168.1.53:9981/stream/channelid/845984682?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/572" tvg-id="886de7a19b4316ac653aee6d794c2cd1" tvg-chno="180",TEST LIG9
+http://192.168.1.53:9981/stream/channelid/568814984?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/573" tvg-id="f72858e7c75ab09f7fd6f37c48723009" tvg-chno="181",M. LaLiga 9
+http://192.168.1.53:9981/stream/channelid/1733830903?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/574" tvg-id="531e27e5866f50bb9d694405731ee1bc" tvg-chno="182",M. LaLiga 10
+http://192.168.1.53:9981/stream/channelid/1697062483?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/575" tvg-id="1044c48a149ace264fab55883c1e67d0" tvg-chno="183",LigaSmartBank2HD
+http://192.168.1.53:9981/stream/channelid/180634640?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/576" tvg-id="ac53821db897ae45feeb3e154bc9e89b" tvg-chno="184",LigaSmartBankHD
+http://192.168.1.53:9981/stream/channelid/495080364?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/577" tvg-id="e7243619e037627c5f68f10892609298" tvg-chno="186",M. Liga de Campeones 3
+http://192.168.1.53:9981/stream/channelid/422978791?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/578" tvg-id="8b8ecb0cc6412ed472182acc7b491b70" tvg-chno="187",M. Liga de Campeones 4
+http://192.168.1.53:9981/stream/channelid/214666891?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/579" tvg-id="44a926caf45edc6ef8d2b0c3dc96a417" tvg-chno="188",M. Liga de Campeones 5
+http://192.168.1.53:9981/stream/channelid/1244047684?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/580" tvg-id="5011477c960a74edfa41a141add1dd12" tvg-chno="189",M. Liga de Campeones 6
+http://192.168.1.53:9981/stream/channelid/2085032272?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/581" tvg-id="35b56620eb28fbc3a2ba4abbe05a1f46" tvg-chno="190",M. Liga de Campeones 7
+http://192.168.1.53:9981/stream/channelid/543601973?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/582" tvg-id="19ad613325076e8e905ce40df1e4f584" tvg-chno="191",M. Liga de Campeones 8
+http://192.168.1.53:9981/stream/channelid/862039321?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/583" tvg-id="dba80ff2565c9a1854d79f3435d60324" tvg-chno="192",M. Deportes 4
+http://192.168.1.53:9981/stream/channelid/1913628891?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/584" tvg-id="09d89f891b4c1947c1ad0e45b9dd9872" tvg-chno="193",M. Deportes 5
+http://192.168.1.53:9981/stream/channelid/161470473?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/585" tvg-id="6e780da8f8b38073d17c695ae13ce62b" tvg-chno="194",M. Deportes 6
+http://192.168.1.53:9981/stream/channelid/671971438?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/586" tvg-id="cbd80b9ae1d8fa10de7505b9fd061b7c" tvg-chno="195",M. Deportes 7
+http://192.168.1.53:9981/stream/channelid/436984011?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/587" tvg-id="c61738d902c08c35160e9b156eaab293" tvg-chno="196",#Vamos Bar 1
+http://192.168.1.53:9981/stream/channelid/1496848326?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/588" tvg-id="65f389e18e8b8b06b7c2f8f515c6a317" tvg-chno="197",#Vamos Bar 2
+http://192.168.1.53:9981/stream/channelid/1636430693?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/589" tvg-id="ce3009ecfe7595812969b3c726b2b752" tvg-chno="200",FOX Life HD
+http://192.168.1.53:9981/stream/channelid/1812541646?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/590" tvg-id="029cc98f1a6c49375ec898759d7a8db0" tvg-chno="200",PORTADA
+http://192.168.1.53:9981/stream/channelid/264870914?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/591" tvg-id="88faa1e7275bcc75ca31b902b7e0c878" tvg-chno="201",Sky Sport Bundesliga HD
+http://192.168.1.53:9981/stream/channelid/1738668680?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/592" tvg-id="a30b5df96b2d6ccc30e26f47b8160ea1" tvg-chno="202",Sky Sport Bundesliga 1 HD
+http://192.168.1.53:9981/stream/channelid/2036140963?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/593" tvg-id="74b5eecb28c0f64f170149137d266608" tvg-chno="203",Sky Sport Bundesliga 2 HD
+http://192.168.1.53:9981/stream/channelid/1273935220?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/594" tvg-id="75d16c5cb828726ef7ecc34734734333" tvg-chno="204",Sky Sport Bundesliga 3 HD
+http://192.168.1.53:9981/stream/channelid/1550635381?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/595" tvg-id="417b5d947c6d882334028626f7e4555f" tvg-chno="222",Sky Sport News HD
+http://192.168.1.53:9981/stream/channelid/341670721?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/596" tvg-id="19ef0c56335a2678d7f79b6a13cca4b6" tvg-chno="223",Sky Sport F1 HD
+http://192.168.1.53:9981/stream/channelid/1443688217?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/597" tvg-id="8aa275e3413e5a3ff54fa8ba446d10b7" tvg-chno="231",Sky Sport Austria 1 HD
+http://192.168.1.53:9981/stream/channelid/1668653706?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/598" tvg-id="2c955d587ea797b698ba448e540ee407" tvg-chno="232",Sky Sport Austria 2 HD
+http://192.168.1.53:9981/stream/channelid/1482528044?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/599" tvg-id="815e1edf134ca3ca35f4791d453b4b46" tvg-chno="233",Sky Sport Austria 3 HD
+http://192.168.1.53:9981/stream/channelid/1595825793?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/600" tvg-id="1ebb9a5ec65c9e5bd3895692fa7e1eff" tvg-chno="234",Sky Sport Austria 4 HD
+http://192.168.1.53:9981/stream/channelid/1587198750?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/601" tvg-id="861b35319dd08bb6ef188782eb7f387e" tvg-chno="241",Eurosport 1 HD De
+http://192.168.1.53:9981/stream/channelid/825564038?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/602" tvg-id="8f3a8956b7a0698dc19d21f556e2c0a6" tvg-chno="242",Eurosport 2 HD De
+http://192.168.1.53:9981/stream/channelid/1451833999?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/603" tvg-id="6e4405aac02329b501e694f8912b1668" tvg-chno="243",Eurosport 2 HD Xtra
+http://192.168.1.53:9981/stream/channelid/704988270?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/604" tvg-id="7bc83c40af4e00f1b51d8224de53eb16" tvg-chno="244",Eurosport360HD 1
+http://192.168.1.53:9981/stream/channelid/1077725307?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/605" tvg-id="8d9c22baaf344a4500b7d3c16ebd2a73" tvg-chno="245",Eurosport360HD 2
+http://192.168.1.53:9981/stream/channelid/975346829?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/606" tvg-id="984c51edc01857b2437f5f95763b061d" tvg-chno="246",Eurosport360HD 3
+http://192.168.1.53:9981/stream/channelid/1834044568?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/607" tvg-id="35b65cc16a5fcc48b7b29f4abc46b811" tvg-chno="247",Eurosport360HD 4
+http://192.168.1.53:9981/stream/channelid/1096594997?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/608" tvg-id="c17f43fb476d5d3d17ea2c84b44bcc8e" tvg-chno="248",Eurosport360HD 5
+http://192.168.1.53:9981/stream/channelid/2068021185?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/609" tvg-id="a4c854fbf02659b2dcc56d4a32938746" tvg-chno="249",Eurosport360HD 6
+http://192.168.1.53:9981/stream/channelid/2069153956?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/610" tvg-id="ebba50ad9e41c627467a506e33a53110" tvg-chno="250",Eurosport360HD 7
+http://192.168.1.53:9981/stream/channelid/760265451?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/611" tvg-id="05edccb42ad5893e9e775e6901720559" tvg-chno="251",Eurosport360HD 8
+http://192.168.1.53:9981/stream/channelid/885845253?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/612" tvg-id="8c812dae885d53da5896a75c0f252aef" tvg-chno="252",Eurosport360HD 9
+http://192.168.1.53:9981/stream/channelid/774734220?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/613" tvg-id="21ac26c82b4d2f9d3b2eb7f511ab11e6" tvg-chno="253",ServusTV HD Deutschland
+http://192.168.1.53:9981/stream/channelid/1210493985?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/614" tvg-id="573a07399ae74a10fb9f2000546f49fd" tvg-chno="254",ORF SPORT+ HD
+http://192.168.1.53:9981/stream/channelid/956774999?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/615" tvg-id="be7d4335962a9aa142215fac7c549d50" tvg-chno="255",Sport1 HD
+http://192.168.1.53:9981/stream/channelid/893615550?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/616" tvg-id="b50d21390f4129f00cf723796ff3c407" tvg-chno="300",UHD1 by ASTRA / HD+
+http://192.168.1.53:9981/stream/channelid/958467509?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/617" tvg-id="b9c599147603451f90eeb1296421f99e" tvg-chno="401",La 1
+http://192.168.1.53:9981/stream/channelid/345621945?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/618" tvg-id="2bafe66ee9afa208af2953816176678c" tvg-chno="403",Antena 3
+http://192.168.1.53:9981/stream/channelid/1860611883?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/619" tvg-id="08187df5a980820d914e2f5b09dabc9e" tvg-chno="404",Cuatro
+http://192.168.1.53:9981/stream/channelid/1971132424?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/620" tvg-id="8b756f75ccd0777cfc2f72aeaee7f213" tvg-chno="405",Telecinco
+http://192.168.1.53:9981/stream/channelid/1970238859?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/621" tvg-id="1524df7bd99693b555283e1dae9cb728" tvg-chno="406",laSexta
+http://192.168.1.53:9981/stream/channelid/2078221333?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/622" tvg-id="1301c72f7192f3a5429b2fd96922dfae" tvg-chno="407",#0
+http://192.168.1.53:9981/stream/channelid/801571091?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/623" tvg-id="c87342d9997e54d64ac988d5b055b4e7" tvg-chno="408",#Vamos
+http://192.168.1.53:9981/stream/channelid/1497527240?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/624" tvg-id="ab261207cdb734c4ec2263a0d6d3cfd6" tvg-chno="411",M. Series
+http://192.168.1.53:9981/stream/channelid/118630059?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/625" tvg-id="3e1c5ed7d6d3529e8cbd1f75e865a53d" tvg-chno="412",M. Series 2
+http://192.168.1.53:9981/stream/channelid/1465785406?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/626" tvg-id="5986fab167ee48e0dd63f17b5221c994" tvg-chno="413",FOX
+http://192.168.1.53:9981/stream/channelid/838501977?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/627" tvg-id="0b546cef7476c8189fedac7b6dc7bd9e" tvg-chno="414",AXN
+http://192.168.1.53:9981/stream/channelid/1869370379?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/628" tvg-id="f144523446dfa76e9f8401f017ecd359" tvg-chno="415",TNT
+http://192.168.1.53:9981/stream/channelid/877806833?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/629" tvg-id="aa04fe1e8c758328833b5cdb157d11f6" tvg-chno="416",Comedy Central
+http://192.168.1.53:9981/stream/channelid/519963818?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/630" tvg-id="f173f15f30e63417f0e5293ee22cf5fc" tvg-chno="417",Calle 13
+http://192.168.1.53:9981/stream/channelid/1609659377?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/631" tvg-id="8402aab67cb01b7bc376ae56bddde604" tvg-chno="418",COSMO
+http://192.168.1.53:9981/stream/channelid/917111428?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/632" tvg-id="13c82eb357b8eb24802e23ef87ee67a0" tvg-chno="419",AMC
+http://192.168.1.53:9981/stream/channelid/858703891?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/633" tvg-id="299f7466424026fc97614b84a74bce83" tvg-chno="420",FOX Life
+http://192.168.1.53:9981/stream/channelid/1718918953?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/634" tvg-id="986bd9237d6b4443dbde114262520cf3" tvg-chno="421",AXN WHITE
+http://192.168.1.53:9981/stream/channelid/601451416?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/635" tvg-id="6b75cce380318664492ff988d9b585f6" tvg-chno="422",SYFY
+http://192.168.1.53:9981/stream/channelid/1674343787?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/636" tvg-id="dbadd6a595967f56a41f127c714dd9a5" tvg-chno="423",M+ Fest
+http://192.168.1.53:9981/stream/channelid/634826203?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/637" tvg-id="3ecefcbd4323690a7866fe43b9bddb29" tvg-chno="430",M. Estrenos
+http://192.168.1.53:9981/stream/channelid/1039978046?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/638" tvg-id="00e000db4a0e433a05f552370a81a805" tvg-chno="431",M. Estrenos 2
+http://192.168.1.53:9981/stream/channelid/1526784000?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/639" tvg-id="b46d2e2e8ff095d546dc3db758d279cd" tvg-chno="432",M. Clásicos
+http://192.168.1.53:9981/stream/channelid/774794676?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/640" tvg-id="c4ab572536ce6593b93f89c4c3b1ff9f" tvg-chno="433",M. Acción
+http://192.168.1.53:9981/stream/channelid/626502596?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/641" tvg-id="38178c45cbea5e053b2b7f7df0488bf6" tvg-chno="434",M. Comedia
+http://192.168.1.53:9981/stream/channelid/1166808888?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/642" tvg-id="550c9a4ba5653b803a1426257a91062c" tvg-chno="435",M. Drama
+http://192.168.1.53:9981/stream/channelid/1268386901?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/643" tvg-id="9c107578446f0ae4fdc69eebe703bd23" tvg-chno="437",TCM
+http://192.168.1.53:9981/stream/channelid/2020937884?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/644" tvg-id="bed6002615bb2f43881a9edf6d07c333" tvg-chno="438",Hollywood
+http://192.168.1.53:9981/stream/channelid/637589182?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/645" tvg-id="66bc6107ff0e03ea82685afdd4413a5d" tvg-chno="446",M+ LaLiga
+http://192.168.1.53:9981/stream/channelid/123845734?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/646" tvg-id="622d3e0b0ba8a17f1e162e9bd47551b8" tvg-chno="447",M+ LaLiga 2
+http://192.168.1.53:9981/stream/channelid/188624226?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/647" tvg-id="12d3c9813238def5cdc23aa8d2cc570a" tvg-chno="448",M+ LaLiga 3
+http://192.168.1.53:9981/stream/channelid/30003986?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/648" tvg-id="652bf91e3e4864f0463b6a9c870c574c" tvg-chno="449",TEST LIG4
+http://192.168.1.53:9981/stream/channelid/519646053?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/649" tvg-id="1f5a99a847a11f3da438d983d798cbab" tvg-chno="450",M. Liga de Campeones
+http://192.168.1.53:9981/stream/channelid/681138719?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/650" tvg-id="73c026d909713ba7cc000a566a78ca74" tvg-chno="451",M. Liga de Campeones 1
+http://192.168.1.53:9981/stream/channelid/1495711859?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/651" tvg-id="7516be96187ca68e15a98dba823f432d" tvg-chno="452",M. Liga de Campeones 2
+http://192.168.1.53:9981/stream/channelid/381556341?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/652" tvg-id="91a133887cd971ffea673e79888335fd" tvg-chno="453",M. Deportes
+http://192.168.1.53:9981/stream/channelid/137601425?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/653" tvg-id="d71420dec18631f2d4d50a2b81dfaa14" tvg-chno="454",M. Deportes 1
+http://192.168.1.53:9981/stream/channelid/1579160791?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/654" tvg-id="28259fe1601253da155c779217587e85" tvg-chno="457",M. Golf
+http://192.168.1.53:9981/stream/channelid/1637819688?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/655" tvg-id="8a95756a0fc23e9ee2e629e2b1ce55ea" tvg-chno="458",DAZN F1
+http://192.168.1.53:9981/stream/channelid/1786090890?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/656" tvg-id="e7bb1e01b4db87d5d9349d2226d6da99" tvg-chno="459",DAZN 1
+http://192.168.1.53:9981/stream/channelid/18791399?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/657" tvg-id="5008eb9fdcf436d2a095edeac8714f09" tvg-chno="460",DAZN 2
+http://192.168.1.53:9981/stream/channelid/535496784?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/658" tvg-id="2ea8c5d498c0a1e73d74a97e5e0b1144" tvg-chno="461",Eurosport 1
+http://192.168.1.53:9981/stream/channelid/1422239790?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/659" tvg-id="24a11391fb26f2d1b945dec185a86890" tvg-chno="462",Eurosport 2
+http://192.168.1.53:9981/stream/channelid/286499108?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/660" tvg-id="c95d4a25b2971860fd2ec800977a65b6" tvg-chno="465",Caza y Pesca
+http://192.168.1.53:9981/stream/channelid/625630665?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/661" tvg-id="45fe8a335f96dfce43dc8b5b2cec8182" tvg-chno="467",Toros
+http://192.168.1.53:9981/stream/channelid/864747077?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/662" tvg-id="161afa80cd4d708e131d5b8523db50c3" tvg-chno="470",Nat Geo
+http://192.168.1.53:9981/stream/channelid/16390678?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/663" tvg-id="b67c8199631fa8caa36ac5cbb6d95a03" tvg-chno="471",Nat Geo Wild
+http://192.168.1.53:9981/stream/channelid/427916470?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/664" tvg-id="5153cd707b9c63e36d12a4f37ba43a8f" tvg-chno="476",Viajar
+http://192.168.1.53:9981/stream/channelid/1892504401?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/665" tvg-id="27418f8996260923922412f46a9e388d" tvg-chno="494",Nickelodeon
+http://192.168.1.53:9981/stream/channelid/160383271?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/666" tvg-id="9842ea90a5d74b7a4178b04fadb72712" tvg-chno="496",Disney Channel
+http://192.168.1.53:9981/stream/channelid/283787928?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/667" tvg-id="32791a9c9d01348f7bceb28ab0e86652" tvg-chno="545",LaLiga TV BAR
+http://192.168.1.53:9981/stream/channelid/471497010?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/668" tvg-id="942aebd9ad0637a566b5ce7bc8453802" tvg-chno="561",Alquiler 1
+http://192.168.1.53:9981/stream/channelid/1508584084?profile=pass
+#EXTINF:-1 logo="http://192.168.1.53:9981/imagecache/669" tvg-id="31796187b5f35e1e87e97e637411b68a" tvg-chno="609",laSexta HD
+http://192.168.1.53:9981/stream/channelid/123828529?profile=pass
